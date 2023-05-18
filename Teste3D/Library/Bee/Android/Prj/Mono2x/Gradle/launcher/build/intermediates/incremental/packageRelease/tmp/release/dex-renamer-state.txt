@@ -1,4 +1,7 @@
-#Sun Jan 22 12:27:22 BRST 2023
-base.0=D\:\\Projetos Unity\\Teste3D\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+#Tue May 02 22:13:39 HST 2023
+base.0=C\:\\Users\\aluno\\Downloads\\Como-Sera-o-Amanha-VR-main\\Como-Sera-o-Amanha-VR-main\\Como-Sera-o-Amanha-VR-main\\Teste3D\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
+base.1=C\:\\Users\\aluno\\Downloads\\Como-Sera-o-Amanha-VR-main\\Como-Sera-o-Amanha-VR-main\\Teste3D\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex

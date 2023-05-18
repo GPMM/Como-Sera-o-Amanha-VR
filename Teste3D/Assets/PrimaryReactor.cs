@@ -11,8 +11,7 @@ public class PrimaryReactor : MonoBehaviour
     private Quaternion onRotation;
     private Coroutine rotator;
 
-    public GameObject Sala;
-    public GameObject Cozi;
+    public Canvas _wristUICanvas;
 
     public int i = 1;
     void Start()
@@ -42,14 +41,6 @@ public class PrimaryReactor : MonoBehaviour
     }*/
     public void Teste()
     {
-        if (i > 0)
-        {
-            this.transform.position = Sala.transform.position;
-        }
-        else
-        {
-            this.transform.position = Cozi.transform.position;
-        }
-        i *= -1;
+        _wristUICanvas.enabled = !_wristUICanvas.enabled;
     }
 }
